@@ -1,2 +1,2 @@
 # HuWNLI
-Anaphora resolution datasets for Hungarian as an inference task
+Anaphora resolution datasets for Hungarian formulated as an inference task
