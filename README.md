@@ -39,7 +39,7 @@ The data is distributed without any predefined splits.
 
 ### Licensing Information
 
-HuWSC is released under the BSD 2-Clause License.
+HuWSC is released under the CC-BY-SA-4.0 License.
 
 
 ### Citation Information
