@@ -337,36 +337,43 @@
             "label": "1"
         },
         {
-            "orig_id": "65",
+            "orig_id": "64",
             "id": "48",
+            "sentence1": "Reggel Józsi homokvárat épített a strandon, és zászlót rakott a legmagasabb toronyba, de délután a szél lefújta.",
+            "sentence2": "A homokvárat lefújta a szél.",
+            "label": "0"
+        },
+        {
+            "orig_id": "65",
+            "id": "49",
             "sentence1": "Egy fa lezuhant a viharban és áttörte a házam tetejét. Most meg kell javíttatnom.",
             "sentence2": "A tetőt meg kell javíttatnom.",
             "label": "1"
         },
         {
             "orig_id": "66",
-            "id": "49",
+            "id": "50",
             "sentence1": "Addig öntöttem a vizet az üvegből a csészébe, míg ki nem ürült.",
             "sentence2": "Kiürült az üveg.",
             "label": "1"
         },
         {
             "orig_id": "67",
-            "id": "50",
+            "id": "51",
             "sentence1": "Alíz a barátját, Esztert kereste a tömegben. Mivel mindig piros turbánban van, hamar észreveszi.",
             "sentence2": "Alíz piros turbánban van.",
             "label": "0"
         },
         {
             "orig_id": "68",
-            "id": "51",
+            "id": "52",
             "sentence1": "A kutya üldözte a macskát, ami felfutott egy fára. A tetején várt.",
             "sentence2": "A macska a fa tetején várt.",
             "label": "1"
         },
         {
             "orig_id": "69",
-            "id": "52",
+            "id": "53",
             "sentence1": "Nyári délután volt, és a kutya a füvön ült. Egy idő után felkelt és átült egy helyre a fa alá, mert meleg volt.",
             "sentence2": "A hely a fa alatt meleg volt.",
             "label": "0"
