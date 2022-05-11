@@ -34,7 +34,7 @@ An example:
 
 - Label: "1" if sentence2 is entailed by sentence1, and "0" otherwise.
 
-The data is distributed in three splits: training set (544), development set (59) and test set (134). The splits follow GLUE's WNLI's splits, but contain less instances as many sentence pairs had to be thrown away for being untranslatable to Hungarian. 
+The data is distributed in three splits: training set (562), development set (59) and test set (134). The splits follow GLUE's WNLI's splits, but contain less instances as many sentence pairs had to be thrown away for being untranslatable to Hungarian. 
 The test set's sentence pairs are translated from GLUE's WNLI's test set. This set was distributed without labels. 3 annotators annotated the Hungarian sentence pairs. The test set of HuWNLI is also distributed without labels.
 To evaluate your model, please [contact us](mailto:ligeti-nagy.noemi@nytud.hu), or check [HuLU's website](hulu.nlp.nytud.hu) for an automatic evaluation (this feature is under construction at the moment). 
 ### Licensing Information
