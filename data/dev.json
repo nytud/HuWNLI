@@ -342,7 +342,7 @@
             "sentence1": "Reggel Józsi homokvárat épített a strandon, és zászlót rakott a legmagasabb toronyba, de délután a szél lefújta.",
             "sentence2": "A homokvárat lefújta a szél.",
             "label": "0"
-        },
+        },        
         {
             "orig_id": "65",
             "id": "49",
@@ -377,6 +377,48 @@
             "sentence1": "Nyári délután volt, és a kutya a füvön ült. Egy idő után felkelt és átült egy helyre a fa alá, mert meleg volt.",
             "sentence2": "A hely a fa alatt meleg volt.",
             "label": "0"
-        }
+        },
+        {
+            "orig_id": "NULL",
+            "id": "54",
+            "sentence1": "Leterítettem a terítőt az asztalra, hogy megvédjem.",
+            "sentence2": "Leterítettem a terítőt az asztalra, hogy megvédjem a terítőt.",
+            "label": "0"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "55",
+            "sentence1": "A rendőrök elhagyták a házat és kimentek a garázsba, miután megtalálták a gyilkos fegyvert.",
+            "sentence2": "A rendőrök a házban találták meg a gyilkos fegyvert.",
+            "label": "1"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "56",
+            "sentence1": "Erzsébet Spártából Trójába költöztette a cégét, hogy spóroljon az adón. Az adók ott sokkal magasabbak.",
+            "sentence2": "Spártában magasabbak az adók.",
+            "label": "1"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "57",
+            "sentence1": "Túl sok szarvas él a parkban, ezért betelepítettek egy kisebb falkányi farkast. A populációnak növekednie kellene a következő években.",
+            "sentence2": "A szarvasok populációjának növekednie kellene.",
+            "label": "0"
+        },
+         {
+            "orig_id": "NULL",
+            "id": "58",
+            "sentence1": "Józsi látta a bátyját síelni a tévében, de a kis hülye nem viselt kabátot.",
+            "sentence2": "Józsi nem viselt kabátot.",
+            "label": "0"
+        },       
+         {
+            "orig_id": "NULL",
+            "id": "59",
+            "sentence1": "A felhasználó \"GrWQWu8JyC\"-ról \"fűzfatornyú Ernyő Vadásztropikus birkózások\"-ra változtatta a jelszavát, mert azt könnyű volt elfelejteni.",
+            "sentence2": "A \"GrWQWu8JyC\"-t könnyű elfelejteni.",
+            "label": "1"
+        }               
     ]
 }
