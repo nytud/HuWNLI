@@ -1,5 +1,5 @@
-﻿{
-    "Sheet1": [
+{
+    "data": [
         {
             "orig_id": "1",
             "id": "0",
@@ -3806,6 +3806,132 @@
             "id": "543",
             "sentence1": "Bár nagyjából ugyanakkora sebességgel futottak, Zsuzsi legyőzte Sacit, mert olyan rosszul rajtolt.",
             "sentence2": "Saci rosszul rajtolt.",
+            "label": "1"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "544",
+            "sentence1": "Leterítettem a terítőt az asztalra, hogy megvédjem.",
+            "sentence2": "Leterítettem a terítőt az asztalra, hogy megvédjem az asztalt.",
+            "label": "1"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "545",
+            "sentence1": "A felhasználó \"GrWQWu8JyC\"-ról \"fűzfatornyú Ernyő Vadásztropikus birkózások\"-ra változtatta a jelszavát, mert azt könnyű megjegyezni.",
+            "sentence2": "A \"fűzfatornyú Ernyő Vadásztropikus birkózások\"-at könnyű megjegyezni.",
+            "label": "1"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "546",
+            "sentence1": "Leterítettem a terítőt az asztalra, hogy megmutassam.",
+            "sentence2": "Leterítettem a terítőt az asztalra, hogy megmutassam a terítőt.",
+            "label": "1"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "547",
+            "sentence1": "A rendőrök elhagyták a házat és kimentek a garázsba, miután megtalálták a gyilkos fegyvert.",
+            "sentence2": "A rendőrök a garázsban találták meg a gyilkos fegyvert.",
+            "label": "0"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "548",
+            "sentence1": "Erzsébet Spártából Trójába költöztette a cégét, hogy spóroljon az adón. Az adók ott sokkal alacsonyabbak.",
+            "sentence2": "Trójában alacsonyabbak az adók.",
+            "label": "1"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "549",
+            "sentence1": "A rendőrök elhagyták a házat és kimentek a garázsba, ahol megtalálták a gyilkos fegyvert. ",
+            "sentence2": "A rendőrök a házban találták meg a gyilkos fegyvert.",
+            "label": "0"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "550",
+            "sentence1": "Józsi látta a bátyját síelni a tévében, de a kis hülye nem ismerte fel.",
+            "sentence2": "Józsi nem ismerte fel a bátyját.",
+            "label": "1"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "551",
+            "sentence1": "Erzsébet Spártából Trójába költöztette a cégét, hogy spóroljon az adón. Az adók ott sokkal magasabbak.",
+            "sentence2": "Trójában magasabbak az adók.",
+            "label": "0"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "552",
+            "sentence1": "A rendőrök elhagyták a házat és kimentek a garázsba, ahol megtalálták a gyilkos fegyvert. ",
+            "sentence2": "A rendőrök a garázsban találták meg a gyilkos fegyvert.",
+            "label": "1"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "553",
+            "sentence1": "A felhasználó \"GrWQWu8JyC\"-ról \"fűzfatornyú Ernyő Vadásztropikus birkózások\"-ra változtatta a jelszavát, mert azt könnyű megjegyezni.",
+            "sentence2": "A \"GrWQWu8JyC\"-t könnyű megjegyezni.",
+            "label": "0"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "554",
+            "sentence1": "Erzsébet Spártából Trójába költöztette a cégét, hogy spóroljon az adón. Az adók ott sokkal alacsonyabbak.",
+            "sentence2": "Spártában alacsonyabbak az adók.",
+            "label": "0"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "555",
+            "sentence1": "Túl sok szarvas él a parkban, ezért betelepítettek egy kisebb falkányi farkast. A populációnak csökkennie kellene a következő években.",
+            "sentence2": "A farkasok populációjának csökkennie kellene.",
+            "label": "0"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "556",
+            "sentence1": "Józsi látta a bátyját síelni a tévében, de a kis hülye nem viselt kabátot.",
+            "sentence2": "Józsi bátyja nem viselt kabátot.",
+            "label": "1"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "557",
+            "sentence1": "A felhasználó \"GrWQWu8JyC\"-ról \"fűzfatornyú Ernyő Vadásztropikus birkózások\"-ra változtatta a jelszavát, mert azt könnyű volt elfelejteni.",
+            "sentence2": "A \"fűzfatornyú Ernyő Vadásztropikus birkózások\"-at könnyű elfelejteni.",
+            "label": "0"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "558",
+            "sentence1": "Túl sok szarvas él a parkban, ezért betelepítettek egy kisebb falkányi farkast. A populációnak csökkennie kellene a következő években.",
+            "sentence2": "A szarvasok populációjának csökkennie kellene.",
+            "label": "1"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "559",
+            "sentence1": "Leterítettem a terítőt az asztalra, hogy megmutassam.",
+            "sentence2": "Leterítettem a terítőt az asztalra, hogy megmutassam az asztalt.",
+            "label": "0"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "560",
+            "sentence1": "Józsi látta a bátyját síelni a tévében, de a kis hülye nem ismerte fel.",
+            "sentence2": "A bátyja nem ismerte fel Józsit.",
+            "label": "0"
+        },
+        {
+            "orig_id": "NULL",
+            "id": "561",
+            "sentence1": "Túl sok szarvas él a parkban, ezért betelepítettek egy kisebb falkányi farkast. A populációnak növekednie kellene a következő években.",
+            "sentence2": "A farkasok populációjának növekednie kellene.",
             "label": "1"
         }
     ]
