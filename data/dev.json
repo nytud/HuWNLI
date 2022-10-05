@@ -94,8 +94,8 @@
         {
             "orig_id": "16",
             "id": "13",
-            "sentence1": "The lawyer asked the witness a question, but he was reluctant to repeat it.",
-            "sentence2": "The lawyer was reluctant to repeat it.",
+            "sentence1": "Az ügyvéd feltett egy kérdést a tanúnak, de nem volt hajlandó megismételni.",
+            "sentence2": "Az ügyvéd nem volt hajlandó megismételni a kérdést.",
             "label": "1"
         },
         {
@@ -108,8 +108,8 @@
         {
             "orig_id": "18",
             "id": "15",
-            "sentence1": "Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very ill.",
-            "sentence2": "Carl was very ill.",
+            "sentence1": "Robi összeesett a járdán. Látta, hogy Károly a segítségére siet. Nagyon beteg volt.",
+            "sentence2": "Károly nagyon beteg volt.",
             "label": "0"
         },
         {
