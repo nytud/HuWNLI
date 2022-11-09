@@ -46,18 +46,18 @@ HuWNLI is released under the CC-BY-SA-4.0 License.
 
 If you use this resource or any part of its documentation, please refer to:
 
-Ligeti-Nagy, N., Ferenczi, G., Héja, E., Jelencsik-Mátyus, K., Laki, L. J., Vadász, N., Yang, Z. Gy. and Váradi, T. (2022) HuLU: magyar nyelvű benchmark adatbázis kiépítése a neurális nyelvmodellek kiértékelése céljából [HuLU: Hungarian benchmark dataset to evaluate neural language models]. In: Berend, Gábor and Gosztolya, Gábor and Vincze, Veronika (eds), XVIII. Magyar Számítógépes Nyelvészeti Konferencia. JATEPress, Szeged. 431–446.
-
+Vadász, N., & Ligeti-Nagy, N. (2022). Winograd schemata and other datasets for anaphora resolution in Hungarian, Acta Linguistica Academica, 69(4), in press.
 ```
-@inproceedings{ligetinagy2022hulu,
-  title={HuLU: magyar nyelvű benchmark adatbázis kiépítése a neurális nyelvmodellek kiértékelése céljából},
-  author={Ligeti-Nagy, N. and Ferenczi, G. and Héja, E. and Jelencsik-Mátyus, K. and Laki, L. J. and Vadász, N. and Yang, Z. Gy. and Váradi, T.},
-  booktitle={XVIII. Magyar Számítógépes Nyelvészeti Konferencia},
-  year={2022},
-  editors = {Berend, Gábor and Gosztolya, Gábor and Vincze, Veronika},
-  address = {Szeged},
-  publisher = {JATEPress},
-  pages = {431–446}
+@article {HuWNLI,
+      author = "Noémi Vadász and Noémi Ligeti-Nagy",
+      title = "Winograd schemata and other datasets for anaphora resolution in Hungarian",
+      journal = "Acta Linguistica Academica",
+      year = "2022",
+      publisher = "Akadémiai Kiadó",
+      address = "Budapest, Hungary",
+      volume = "69",
+      number = "4",
+      note = "In press."
 }
 ```
 
