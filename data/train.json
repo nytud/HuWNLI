@@ -674,7 +674,7 @@
  {
   "orig_id": "112",
   "id": "96",
-  "sentence1": "A férfi vállára emelte fel a férfi a fiút.",
+  "sentence1": "A férfi vállára emelte a fiút.",
   "sentence2": "A férfi vállára emelte fel a férfi a fiút.",
   "label": "1"
  },
@@ -1249,7 +1249,7 @@
   "orig_id": "207",
   "id": "178",
   "sentence1": "Nem könnyű a gomblyukakat pontosan azonos távolságra egymástól elhelyezni, és nagyon nehéz pontosan a megfelelő méretre vágni őket. Az olló legapróbb csúszása is túl nagy lyukat eredményez, és már egy vágatlanul hagyott száltól is túl kicsi lesz.",
-  "sentence2": "Már egy vágatlanul hagyott száltól is túl kicsi leszaz olló csúszása.",
+  "sentence2": "Már egy vágatlanul hagyott száltól is túl kicsi lesz az olló csúszása.",
   "label": "0"
  },
  {
@@ -1395,7 +1395,7 @@
  {
   "orig_id": "233",
   "id": "199",
-  "sentence1": "Andrea látta a leszállópályát.",
+  "sentence1": "Ahogy Andrea a permetező repülővel elment Zsuzsa felett, látta a leszállópályát.",
   "sentence2": "Zsuzsa látta a leszállópályát.",
   "label": "0"
  },
@@ -1794,7 +1794,7 @@
  {
   "orig_id": "294",
   "id": "256",
-  "sentence1": "Béla nagyon együttérző.",
+  "sentence1": "Daninak meg kellett állítania Bélát, hogy ne játsszon a sérült madárral. Nagyon együttérző.",
   "sentence2": "Dani nagyon együttérző.",
   "label": "1"
  },
@@ -3208,8 +3208,8 @@
  {
   "orig_id": "523",
   "id": "458",
-  "sentence1": "Dani nagyon kegyetlen.",
-  "sentence2": "Béla nagyon együttérző.",
+  "sentence1": "Daninak meg kellett állítania Bélát, hogy ne játsszon a sérült madárral. Nagyon kegyetlen.",
+  "sentence2": "Dani nagyon kegyetlen.",
   "label": "0"
  },
  {
@@ -3483,14 +3483,14 @@
   "orig_id": "573",
   "id": "497",
   "sentence1": "Janka bekopogtatott Zsuzsához, de senki nem nyitott ajtót. Csalódott volt.",
-  "sentence2": "Janka cslódott volt.",
+  "sentence2": "Janka csalódott volt.",
   "label": "1"
  },
  {
   "orig_id": "574",
   "id": "498",
   "sentence1": "Janka bekopogtatott Zsuzsához, de senki nem nyitott ajtót. Csalódott volt.",
-  "sentence2": "Janka bekopogtatott Zsuzsához, de senki nem nyitott ajtót. Csalódott volt.",
+  "sentence2": "Zsuzsa csalódott volt.",
   "label": "0"
  },
  {
@@ -3783,7 +3783,7 @@
  {
   "orig_id": "629",
   "id": "540",
-  "sentence1": "Samu és Noémi tizenöt évesek.",
+  "sentence1": "Samu és Noémi szenvedélyesen szeretik egymást, de Noémi szüleinek ez nem tetszik, mert sznobok.",
   "sentence2": "Samu és Noémi tizenöt évesek.",
   "label": "1"
  },
